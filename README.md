@@ -1,0 +1,2 @@
+# mylocalhost
+php index localhost
